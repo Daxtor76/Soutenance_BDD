@@ -1,0 +1,1 @@
+CALL LierJeuGenre(19, 7)
