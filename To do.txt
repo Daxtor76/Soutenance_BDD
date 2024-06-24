@@ -8,8 +8,8 @@
 	o Finir PPT (dernières requêtes) -> ok
 	o Faire un try catch vite fait -> ok
 	o Ecrire veille -> ok
-	o Ecrire vite fait dossier projet
-	o Ecrire vite fait dossier professionnel
+	o Ecrire vite fait dossier professionnel -> ok
+	o Ecrire vite fait dossier projet -> ok
 - Mardi :
 	o Imprimer convocation
 	o Imprimer dossier projet en double
