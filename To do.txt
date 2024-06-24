@@ -3,12 +3,13 @@
 	o Editeur -> ok
 	o Genre -> ok
 - Lundi : 
-	o Personnages
-	o Plateforme
-	o Finir PPT (dernières requêtes)
+	o Personnages -> ok
+	o Plateforme -> ok
+	o Finir PPT (dernières requêtes) -> ok
+	o Faire un try catch vite fait -> ok
+	o Ecrire veille -> ok
 	o Ecrire vite fait dossier projet
 	o Ecrire vite fait dossier professionnel
-	o Faire un try catch vite fait
 - Mardi :
 	o Imprimer convocation
 	o Imprimer dossier projet en double

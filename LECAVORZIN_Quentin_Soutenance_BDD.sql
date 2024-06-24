@@ -1,1 +1,1 @@
-CALL LierJeuGenre(19, 7)
+UPDATE jeu SET jeu.nom = 'FF7' WHERE jeu.nom = 'Final Fantasy VII'
